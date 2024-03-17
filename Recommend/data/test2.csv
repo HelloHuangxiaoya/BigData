@@ -1,0 +1,17 @@
+﻿用户id,音乐id,action
+u1,m1001,listen
+u1,m1001,like
+u1,m1001,comment
+u1,m1001,share
+u1,m1002,listen
+u1,m1002,like
+u1,m1002,comment
+u1,m1005,listen
+u2,m1003,listen
+u2,m1003,like
+u2,m1004,listen
+u2,m1004,like
+u3,m1001,listen
+u3,m1001,like
+u3,m1001,comment
+u3,m1002,listen
